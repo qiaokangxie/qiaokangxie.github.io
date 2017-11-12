@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Qiaokang Xie"
+title: "Qiaokang Xie　| 谢乔康"
 excerpt: "Qiaokang Xie"
 author_profile: true
 redirect_from:

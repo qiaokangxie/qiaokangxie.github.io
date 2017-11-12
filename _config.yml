@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qiaokang Xie / Homepage"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "谢乔康"
-description              : &description "Undergraduate of USTC"
+description              : &description "Postgraduate of USTC"
 url                      : https://qiaokangxie.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "qiaokangxie.github.io"
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Qiaokang Xie"
   avatar           : "profile.jpg"
-  bio              : "Undergradute at University of Science and Technology of China, majoy in Electronic engineering & Information Science"
+  bio              : "Postgradute at University of Science and Technology of China, majoy in Electronic engineering & Information Science"
   location         : "West Campus of USTC, Hefei, China"
   employer         :
   googlescholar    : "#"
