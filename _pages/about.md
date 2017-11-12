@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-B.S. Electronic and Information Engineering (July 2017)
-
-Department of Electronic Engineering & Information Science ([EEIS](http://eeis.ustc.edu.cn/)), [USTC](http://www.ustc.edu.cn/)
+>B.S. Electronic and Information Engineering (July 2017) <br>
+>Department of Electronic Engineering & Information Science ([EEIS](http://eeis.ustc.edu.cn/)), [USTC](http://www.ustc.edu.cn/)
 
 ## WELCOME TO MY HOMEPAGE!
 
