@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Qiaokang Xie　| 谢乔康"
+title: "Qiaokang Xie  谢乔康"
 excerpt: "Qiaokang Xie"
 author_profile: true
 redirect_from:
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Department of Electronic Engineering & Information Science [[EEIS](http://eeis.ustc.edu.cn/)], [USTC](http://www.ustc.edu.cn/)
+Department of Electronic Engineering & Information Science [[ EEIS ](http://eeis.ustc.edu.cn/)], [USTC](http://www.ustc.edu.cn/)
 
 ## WELCOME TO MY HOMEPAGE!
 
