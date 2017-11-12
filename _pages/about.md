@@ -17,6 +17,6 @@ Hello! I am a postgraduate in University of Science and Technology of China. I r
 I'm interested in Person Re-Identification.
 
 ## Contact
-** email : ** xieqiaokang@gmail.com
+**email :** xieqiaokang@gmail.com
 
 2017-11-12
